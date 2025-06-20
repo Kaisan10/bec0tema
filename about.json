@@ -21,20 +21,21 @@
       "danger": "ffa552",
       "success": "8bfe98",
       "love": "ff6b6b",
-      "selected": "c8ddfe"
+      "selected": "c8ddfe",
+      "hover": "f2f2f2"
     },
     "bec0-dark": {
-      "primary": "e0e0e0",
+      "primary": "ededed",
       "secondary": "2d2d2d",
       "tertiary": "9a5cfd",
       "quaternary": "71bd9f",
       "header_background": "202020",
       "header_primary": "e0e0e0",
       "highlight": "9a5cfd",
-      "danger": "d05454",
+      "danger": "d08f53",
       "success": "71bd9f",
-      "love": "c16ad7",
-      "selected": "2f0177",
+      "love": "d76a6a",
+      "selected": "1c1b69",
       "hover": "535353"
     }
   }
