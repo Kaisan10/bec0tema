@@ -12,17 +12,17 @@
   },
   "color_schemes": {
     "bec0-light": {
-      "primary": "1c1c1c",
+      "primary": "080808",
       "secondary": "f9fcff",
-      "tertiary": "3877e5",
+      "tertiary": "488bfe",
       "quaternary": "7e8b93",
       "header_background": "f9fcff",
       "header_primary": "122b43",
-      "highlight": "e6cb37",
-      "danger": "d05454",
-      "success": "71bd9f",
-      "love": "c16ad7",
-      "selected": "e1ebfb"
+      "highlight": "ffe138",
+      "danger": "ffa552",
+      "success": "8bfe98",
+      "love": "ff6b6b",
+      "selected": "c8ddfe"
     },
     "bec0-dark": {
       "primary": "e0e0e0",
