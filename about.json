@@ -1,7 +1,7 @@
 {
   "name": "Bec0Tema",
   "about_url": "https://github.com/Kaisan10/bec0tema/",
-  "license_url": "https://github.com/Kaisan10/bec0tema/"blob/main/LICENSE",
+  "license_url": "https://bac0n.f5.si",
   "components": [
     "https://github.com/jordanvidrine/discourse-category-group-boxes.git",
     "https://github.com/discourse/discourse-clickable-topic.git",
